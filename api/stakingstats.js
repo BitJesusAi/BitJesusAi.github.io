@@ -1,0 +1,1 @@
+{"base":{"totalStaked":9816839.67368417,"totalRewards":111199165.73204605,"totalCompounded":95384465.67784865,"totalCollected":15814700.054197399,"totalUsers":492},"bsc":{"totalStaked":245430142.14933383,"totalRewards":1941978619.4676416,"totalCompounded":1527810734.98314,"totalCollected":414167884.48450166,"totalUsers":2439}}

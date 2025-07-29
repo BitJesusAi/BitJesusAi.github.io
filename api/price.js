@@ -1,0 +1,1 @@
+{"data":{"mintstakeshare":1.20535,"binancecoin":743.69,"ethereum":3671.88,"updatedAt":1751194850917}}
